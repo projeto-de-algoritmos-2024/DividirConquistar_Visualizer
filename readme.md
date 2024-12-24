@@ -84,4 +84,4 @@ Para executar o projeto, você precisará de:
 Este projeto exemplifica como conceitos abstratos, como algoritmos de ordenação, podem ser apresentados de maneira prática e visual. É uma ferramenta educativa poderosa que conecta teoria e prática de forma intuitiva.
 
 ## Demonstração em Vídeo
-Para mais detalhes, confira a [demonstração em vídeo do projeto](https://youtu.be/rxaPu0vttlU).
+Para mais detalhes, confira a [demonstração em vídeo do projeto](https://youtu.be/MoMc3qC1j1c).
